@@ -1,0 +1,23 @@
+/* Importa la tipografía Roboto, Roboto Mono, Open Sans y Adobe Greycliff Hebrew CF */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Roboto+Mono:wght@400;700&family=Open+Sans:wght@400;700&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/fontsource-adobe-greycliff-hebrew-cf@2.0.0/dist/fontsource-adobe-greycliff-hebrew-cf.css");
+
+/* Configura Tailwind CSS */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+/* Aplica estilos específicos para el idioma español (es) */
+body.es {
+	font-family: "Roboto", sans-serif;
+}
+
+/* Aplica estilos específicos para el idioma hebreo (he) */
+body.he {
+	font-family: "Adobe Greycliff Hebrew CF", sans-serif;
+}

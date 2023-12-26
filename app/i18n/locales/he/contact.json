@@ -1,0 +1,12 @@
+{
+	"contactFormTitle": "טופס יצירת קשר",
+	"email": "כתובת דואר אלקטרוני",
+	"emailPlaceholder": "הזן את כתובת הדואר האלקטרוני שלך",
+	"subject": "נושא",
+	"subjectPlaceholder": "הזן את הנושא",
+	"body": "גוף ההודעה",
+	"bodyPlaceholder": "כתוב את ההודעה שלך כאן",
+	"submit": "שלח",
+	"interestText": "אם אתה מעוניין, אל תהסס ליצור קשר איתנו.",
+	"contactEmail": "צור קשר בדואר אלקטרוני"
+}

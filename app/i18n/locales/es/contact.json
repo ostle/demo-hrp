@@ -1,0 +1,12 @@
+{
+	"contactFormTitle": "Formulario de Contacto",
+	"email": "Correo electrónico",
+	"emailPlaceholder": "Ingrese su correo electrónico",
+	"subject": "Asunto",
+	"subjectPlaceholder": "Ingrese el asunto",
+	"body": "Cuerpo del mensaje",
+	"bodyPlaceholder": "Escriba su mensaje aquí",
+	"submit": "Enviar",
+	"interestText": "Si está interesado, no dude en ponerse en contacto con nosotros.",
+	"contactEmail": "Contáctenos a"
+}
