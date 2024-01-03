@@ -53,7 +53,7 @@ async function Services({ params: { lng } }) {
 						</p>
 						<Link href={servicio.link} passHref>
 							<button className='mt-4 mx-4 flex items-center text-sky-900 hover:underline'>
-								Ver más
+								{t("more")}
 								<IoIosArrowForward className='ml-2' />
 							</button>
 						</Link>
