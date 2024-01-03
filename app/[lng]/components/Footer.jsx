@@ -7,7 +7,7 @@ const Footer = () => {
 				style={{
 					borderTop: "1px solid black",
 					backgroundColor: "white",
-					position: "fixed",
+					position: "bottom",
 					bottom: "0",
 					width: "100%",
 					height: "50px", // Puedes ajustar la altura según tus necesidades

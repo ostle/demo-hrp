@@ -13,7 +13,7 @@ export default function RootLayout({ children, params: { lng } }) {
 		<html lang={lng} dir={dir(lng)}>
 			<head />
 			<body className={`${lng} `}>
-				<Navbar lng={lng} />
+				<Navbar lng={lng} className='mb-30' />
 				{children}
 				<Footer />
 			</body>
